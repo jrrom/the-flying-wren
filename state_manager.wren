@@ -1,4 +1,4 @@
-import "./states/startmenu" for StartMenu
+import "./states/start_menu" for StartMenu
 import "./states/game"      for Game
 import "./states/play"      for Play
 import "./states/speed"     for Speed
