@@ -1,5 +1,6 @@
 import "graphics"           for Canvas, Color
 import "dome"               for Process, Window
+import "input"              for Keyboard, DigitalInput
 
 class Game {
   stateManager=(value) {_stateManager = value}
@@ -17,6 +18,9 @@ class Game {
 
   update() {
     _state.update()
+    if (Keyboard["f11"].justPressed) {
+      Window.fullscreen = !Window.fullscreen 
+    }
   }
 
   draw(dt) {

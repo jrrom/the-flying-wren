@@ -28,7 +28,7 @@ class Button {
   }
 
   update() {
-    if ((Mouse.isButtonPressed("left") && ((Mouse.x >= _newX) && (Mouse.x <= _newX + _w)) && ((Mouse.y >= _newY) && (Mouse.y <= _newY + _h))) || Keyboard.isKeyDown("Space")) {
+    if ((Mouse.isButtonPressed("left") && ((Mouse.x >= _newX) && (Mouse.x <= _newX + _w)) && ((Mouse.y >= _newY) && (Mouse.y <= _newY + _h))) || Keyboard["Space"].justPressed) {
       _function.call()
     }
   }

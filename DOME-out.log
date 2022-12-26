@@ -1,0 +1,14 @@
+Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/main.wren
+Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/state_manager.wren
+Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/states/start_menu.wren
+Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/components/button.wren
+Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/states/game.wren
+Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/states/play.wren
+Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/components/wren.wren
+Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/components/pipe.wren
+Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/assets/win.wav
+Audio loaded: assets/win.wav
+Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/states/speed.wren
+Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/./assets/background.png
+Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/./assets/bird-sheet.png
+Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/./assets/pipe.png
