@@ -1,14 +1,14 @@
-Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/main.wren
-Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/state_manager.wren
-Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/states/start_menu.wren
-Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/components/button.wren
-Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/states/game.wren
-Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/states/play.wren
-Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/components/wren.wren
-Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/components/pipe.wren
-Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/assets/win.wav
-Audio loaded: assets/win.wav
-Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/states/speed.wren
-Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/./assets/background.png
-Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/./assets/bird-sheet.png
-Reading from filesystem: /home/jeromeb/Programming/the-flying-wren/./assets/pipe.png
+Bundling: main.wren
+Bundling: state_manager.wren
+Bundling: assets/win.wav
+Bundling: assets/bird-sheet.png
+Bundling: assets/pipe.png
+Bundling: assets/background.png
+Bundling: components/wren.wren
+Bundling: components/pipe.wren
+Bundling: components/button.wren
+Bundling: states/speed.wren
+Bundling: states/start_menu.wren
+Bundling: states/game.wren
+Bundling: states/play.wren
+Created bundle game.egg.
